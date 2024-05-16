@@ -1,0 +1,11 @@
+,Frequncy per 10k,LL compared to Brown/Frown,
+Text,Tokens,F,Frequncy per 10k
+Brown Fiction,235849,2985,126.56
+Frown Fiction,,2450,112.88
+High literary,2328081,21142,90.81
+King fiction,,111063,115.9
+King fanfiction,,5510,141.15
+HP fanfiction,,6702,165.66
+Misery's Return,,170,193.07
+,,,
+Average of Brown and Frown,,,
